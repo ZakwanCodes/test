@@ -3,7 +3,7 @@ using namespace std;
 
 
 int main() {
-	cout << "second" << endl;
+	cout << "thrid" << endl;
 
 	return 0;
 }
